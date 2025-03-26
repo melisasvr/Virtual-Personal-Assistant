@@ -50,7 +50,7 @@ Deleted reminder: 'call john'
 
 ## Notes
 - The assistant checks for reminders every minute in the background.
-- All data is stored locally—no internet required.
+- All data is stored locally; no internetis  required.
 - Time format should match your system’s 12-hour clock (e.g., "3 PM", "10:45 AM")
 
 
